@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/459b11dd43e86929e736b.jpg), ɪᴍ ɪʀᴏɴ ᴍᴀɴ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
+ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/62fdee7cdd574952a89e3.jpg), ɪᴍ ɪʀᴏɴ ᴍᴀɴ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
 ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ /help
 
 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ [ᴛʜɪs ᴘᴇʀsᴏɴ](tg://user?id={})
@@ -27,7 +27,7 @@ PM_START_TEXT = """
 """
 
 HELP_STRINGS = """
-[🤗](https://telegra.ph/file/fa242fb43769375275c50.jpg) Hey there! My name is *{}*.
+ʜɪ.. ɪ'ᴍ [ᴢᴀɪʀᴀ🤗](https://telegra.ph/file/cdabc8ac50ca8b00c77f3.jpg) Hey there! My name is *{}*.
 
 *Main* commands available:
  - /start: start the bot
