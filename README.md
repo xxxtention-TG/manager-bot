@@ -1,4 +1,4 @@
-#  Filter-Bot-V2                                                         
+#  zaira-bot                                                         
                                                   
 [![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/xxxtention-TG/manager-bot)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
@@ -36,7 +36,7 @@ from tg_bot.sample_config import Config
 🍒 You Can join [My Telegram Movie Group](https://t.me/movieshub_group)
 
 
-### Deploy
+To deploy me on heroku, use below button:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xxxtention-TG/manager-bot)
 
