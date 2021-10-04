@@ -20,7 +20,7 @@
 
   </a>  
 </p>
-<img src="https://telegra.ph/file/522d97c7fca9a4bf6b936.jpg"><br>
+<img src="https://telegra.ph/file/cdabc8ac50ca8b00c77f3.jpg"><br>
 
 
 ```
@@ -38,7 +38,7 @@ from tg_bot.sample_config import Config
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MRK-YT/MT-Rose-Bot-Model)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xxxtention-TG/manager-bot)
 
 There is also a [tutorial video](https://youtu.be/wKL90i3cjPw) if you want any help on creating heroku clone.
 
@@ -71,8 +71,8 @@ from tg_bot.sample_config import Config
 
 
 class Development(Config):
-    OWNER_ID = 1442587694  # my telegram ID
-    OWNER_USERNAME = "Lucifer_Devil_AD"  # my telegram username
+    OWNER_ID = 1947629770  # my telegram ID
+    OWNER_USERNAME = "Darkz_angel"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'  # sample db credentials
     MESSAGE_DUMP = '-1234567890' # some group chat that your bot is a member of
