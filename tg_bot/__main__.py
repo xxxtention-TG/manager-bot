@@ -27,7 +27,7 @@ PM_START_TEXT = """
 """
 
 HELP_STRINGS = """
-Hey there! My name is *{}*.
+[🤗](https://telegra.ph/file/fa242fb43769375275c50.jpg) Hey there! My name is *{}*.
 
 *Main* commands available:
  - /start: start the bot
@@ -43,7 +43,7 @@ And the following:
 
 DONATE_STRING = """ *🙋‍♂️Hello Bro or Sis*!
 
-*😎Contect @Lucifer_Devil_AD*
+*ᴄᴏɴᴛᴇᴄᴛ [Dᴀʀᴋ Aɴɢᴇʟ](https://t.me/darkz_angel)*
 
 *👉Clcik 👉 /donate*
 """
