@@ -19,8 +19,8 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-*ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/459b11dd43e86929e736b.jpg), ɪᴍ ɪʀᴏɴ ᴍᴀɴ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
-ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ /help*
+ʜᴇʟʟᴏ [🤗](https://telegra.ph/file/459b11dd43e86929e736b.jpg), ɪᴍ ɪʀᴏɴ ᴍᴀɴ ᴀ ʜɪɢʜʏ ᴀᴅᴠᴀɴᴄᴇᴅ ʙᴏᴛ ᴡɪᴛʜ ʟᴏᴛꜱ ᴏꜰ ᴀᴍᴀᴢɪɴɢ ᴛᴏᴏʟꜱ.
+ɪ'ᴍ ʜᴇʀᴇ ᴛᴏ ʜᴇʟᴘ ʏᴏᴜ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘꜱ! ʜɪᴛ /help
 
 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ [ᴛʜɪs ᴘᴇʀsᴏɴ](tg://user?id={})
 
