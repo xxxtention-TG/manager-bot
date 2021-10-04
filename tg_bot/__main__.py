@@ -27,7 +27,7 @@ PM_START_TEXT = """
 """
 
 HELP_STRINGS = """
-ʜɪ.. ɪ'ᴍ [ᴢᴀɪʀᴀ🤗](https://telegra.ph/file/cdabc8ac50ca8b00c77f3.jpg) Hey there! My name is *{}*.
+ʜɪ.. ɪ'ᴍ [ᴢᴀɪʀᴀ🤗](https://telegra.ph/file/cdabc8ac50ca8b00c77f3.jpg).
 
 ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..
 
@@ -136,7 +136,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs ❔", url="https://t.me/{}?start=help".format(bot.username))],
-                     [InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="t.me/movieshub_group"), InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", url="https://github.com/jithumon/tgbot/graphs/contributors")],
+                     [InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="t.me/movieshub_group"), InlineKeyboardButton(text="ᴄʀᴇᴀᴛᴏʀ", url="https://t.me/darkz_angel")],
                      [InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ᴛᴏ", url="t.me/{}?startgroup=true".format(bot.username)) ]]))
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
