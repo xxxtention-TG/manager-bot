@@ -10,13 +10,13 @@
     <img src="http://ForTheBadge.com/images/badges/made-with-python.svg">
   </a>
 <p align="center">
-  <a href="https://github.com/LuciferMoringStarDevil/Filter-Bot-V2/stargazers">
-    <img src="https://github.com/LuciferMoringStarDevil/Filter-Bot-V2?style=social">
+  <a href="https://github.com/xxxtention-TG/manager-bot/stargazers">
+    <img src="https://github.com/xxxtention-TG/manager-bot?style=social">
 
   </a>
   
-  <a href="https://github.com/LuciferMoringStarDevil/Filter-Bot-V2/fork">
-    <img src="https://github.com/LuciferMoringStarDevil/Filter-Bot-V2?label=Fork&style=social">
+  <a href="https://github.com/xxxtention-TG/manager-bot/fork">
+    <img src="https://github.com/xxxtention-TG/manager-bot?label=Fork&style=social">
 
   </a>  
 </p>
