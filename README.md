@@ -1,9 +1,9 @@
 #  Filter-Bot-V2                                                         
                                                   
-[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/LuciferMoringStarDevil/Filter-Bot-V2)
+[![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/xxxtention-TG/manager-bot)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
-[![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/Lucifer_Devil_AD)
-[![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/ADMOVEI)
+[![Report Bugs!](https://badgen.net/badge/🐞%20Rᴇᴘᴏʀᴛ%20/Bᴜɢs/red)](https://telegram.dog/darkz_angel)
+[![Join Channel !](https://badgen.net/badge/🔊%20Jᴏɪɴ%20/Cʜᴀɴɴᴇʟ/Black)](https://telegram.dog/movies_hub66)
 
 <p align="center">
   <a href="https://www.python.org">
@@ -25,15 +25,15 @@
 
 ```
 from tg_bot.sample_config import Config
-- 👋 Hi, I’m @Lucifer_Devil_AD
+- 👋 Hi, I’m @darkz_angel
 - 👀 I’m interested in Telegram Bot Building
 - 🌱 I’m currently learning From Github
 - 💞️ I’m looking to collaborate on Big Company
-- 📫 How to reach me- [My Telegram](https://t.me/Lucifer_Devil_AD)
+- 📫 How to reach me- [My Telegram](https://t.me/darkz_angel)
 
-🍒 This is a Noob  Filter Bot From Ideas of @Lucifer_Devil_AD..<br>
+🍒 This is a Noob  Manager bot From Ideas of @darkz_angel..<br>
 🍒 This Bot Is Just For Me!!!
-🍒 You Can join [My Telegram Movie Group](https://t.me/ADMOVEIAD)
+🍒 You Can join [My Telegram Movie Group](https://t.me/movieshub_group)
 
 
 ### Deploy
