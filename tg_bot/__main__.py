@@ -144,7 +144,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="ᴄʀᴇᴀᴛᴏʀ", url="https://t.me/{}?start=help".format(bot.username))],
-                     [InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", https://t.me/{}?start=about".format(bot.username)), InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/ADMOVEIAD)],
+                     [InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", https://t.me/{}?start=about".format(bot.username)), InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/ADMOVEIAD")],
                      [InlineKeyboardButton(text="ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs", https://t.me/{}?start=help".format(bot.username)) ]]))
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
