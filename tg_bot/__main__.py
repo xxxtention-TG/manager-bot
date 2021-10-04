@@ -143,9 +143,9 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="⭕️ Command Help ⭕️", url="https://t.me/{}?start=help".format(bot.username))],
-                     [InlineKeyboardButton(text="📢 Botz update 📢", url="t.me/ONLY_CODES"), InlineKeyboardButton(text="🎬For Movie", url="https://t.me/ADMOVEIAD"), InlineKeyboardButton(text="🤠Credits", url="https://github.com/jithumon/tgbot/graphs/contributors")],
-                     [InlineKeyboardButton(text="➕ Add me to your group ➕", url="t.me/{}?startgroup=true".format(bot.username)) ]]))
+                    [[InlineKeyboardButton(text="ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs ❔", url="https://t.me/{}?start=help".format(bot.username))],
+                     [InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="t.me/movieshub_group"), InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", url="https://github.com/jithumon/tgbot/graphs/contributors")],
+                     [InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ ᴛᴏ", url="t.me/{}?startgroup=true".format(bot.username)) ]]))
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
 
