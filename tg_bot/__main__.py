@@ -144,7 +144,7 @@ def start(bot: Bot, update: Update, args: List[str]):
 
                 parse_mode=ParseMode.MARKDOWN, reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton(text="ᴄʀᴇᴀᴛᴏʀ", url="https://t.me/{}?start=help".format(bot.username))],
-                     [InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", https://t.me/{}?start=about".format(bot.username)), InlineKeyboardButton(text="🤠Credits", url="https://github.com/jithumon/tgbot/graphs/contributors")],
+                     [InlineKeyboardButton(text="📢 Botz update 📢", url="t.me/ONLY_CODES"), InlineKeyboardButton(text="🎬For Movie", url="https://t.me/ADMOVEIAD"), InlineKeyboardButton(text="🤠Credits", url="
                      [InlineKeyboardButton(text="ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs", https://t.me/{}?start=help".format(bot.username)) ]]))
     else:
         update.effective_message.reply_text("ചത്തിട്ടില്ലാ...")
