@@ -1,5 +1,6 @@
-#  zaira-bot                                                         
-                       [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Auto+filter+bot+v2+Maintained+by+Dark+Angel!;Dont+use+illegal+activities!;By+Cyber+smile+:)](https://git.io/typing-svg)
+#  zaira-bot                       
+                                  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Advanced+otp+bypassing+tool!;Dont+use+illegal+activities!;By+Cyber+smile+:)](https://git.io/typing-svg)
                            
 [![Open Source? Yes!](https://badgen.net/badge/Oᴘᴇɴ%20Sᴏᴜʀᴄᴇ%20%3F/Yᴇs/yellow?icon=github)](https://github.com/xxxtention-TG/manager-bot)
 [![Ask Me Anything !](https://img.shields.io/badge/🤔%20Asᴋ%20Mᴇ-Aɴʏᴛʜɪɴɢ-1abc9c.svg)](https://telegram.dog/Mrk_Yt)
